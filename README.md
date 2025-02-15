@@ -58,6 +58,8 @@
 
     # git checkout [branch-name] -> switched to [branch-name]
 
+    # git commit -a -m "[message]" -> added to index all files, commit with message
+
 12. Merge the feature branch in master
 
 13. Return to feature and create the arrows.txt file with the following contents:
