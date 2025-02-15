@@ -62,6 +62,14 @@
 
 12. Merge the feature branch in master
 
+    # git stash -> if exist files or changes not yet ready for commit
+
+    # git checkout main -> switch to main branch
+
+    # git merge [name-of-branch]-> merging [name-of-branch] to main branch
+
+    $ Fast-forward merge - >
+
 13. Return to feature and create the arrows.txt file with the following contents:
 
 The ship glides gently on the waves

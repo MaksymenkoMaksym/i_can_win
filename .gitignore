@@ -1,0 +1,6 @@
+// hides all files with following Extension
+*.db
+*.log
+// hides following folders
+/target/
+/bin/
